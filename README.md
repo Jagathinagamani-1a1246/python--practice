@@ -1,2 +1,2 @@
 # python--practice
-practiced python programs based on functions.
+Practising python programs based on functions,to improve my Logical thinking.
