@@ -31,7 +31,6 @@ The main goal of this practice is to improve my ability to:
 
 🛠️ Tools Used
 - 🐍 Python
-- 💻 VS Code
 - 🌐 GitHub
 
   
