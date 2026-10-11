@@ -40,6 +40,6 @@ Learn → Practice → Solve → Improve
 Every program is a step toward becoming a better programmer. 💡🐍
 
 ## 📈 Progress
-✅ **50 Python Programs Completed**
+✅ **90 Python Programs Completed**
 
 
